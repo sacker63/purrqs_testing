@@ -2,43 +2,73 @@
   "nodes": [
     {
       "id": 1,
-      "name": "Nifty Games"
+      "name": "Nifty Games",
+      "type": "origin",
+      "age": "",
+      "source": "purrqs"
     },
     {
       "id": 2,
-      "name": "Mike"
+      "name": "Mike",
+      "type": "Super Fan",
+      "age": "42",
+      "source": "facebook"
     },
     {
       "id": 3,
-      "name": "Drew"
+      "name": "Drew",
+      "type": "Super Fan",
+      "age": "29",
+      "source": "facebook"
     },
     {
       "id": 4,
-      "name": "Unknown"
+      "name": "Unknown",
+      "type": "",
+      "age": "",
+      "source": "twitter"
     },
     {
       "id": 5,
-      "name": "Anica"
+      "name": "Anica",
+      "type": "Casual Fan",
+      "age": "39",
+      "source": "facebook"
     },
     {
       "id": 6,
-      "name": "Sean"
+      "name": "Sean",
+      "type": "Super Fan",
+      "age": "18",
+      "source": "twitter"
     },
     {
       "id": 7,
-      "name": "Bill"
+      "name": "Bill",
+      "type": "First Timer",
+      "age": "34",
+      "source": "facebook"
     },
     {
       "id": 8,
-      "name": "Stephanie"
+      "name": "Stephanie",
+      "type": "Casual Fan",
+      "age": "35",
+      "source": "instagram"
     },
     {
       "id": 9,
-      "name": "Unknown"
+      "name": "Unknown",
+      "type": "",
+      "age": "",
+      "source": "twitter"
     },
     {
       "id": 10,
-      "name": "Unknown"
+      "name": "Unknown",
+      "type": "",
+      "age": "",
+      "source": "facebook"
     }
   ],
   "links": [
