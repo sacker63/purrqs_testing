@@ -1125,18 +1125,6 @@
     {
       "source": 80,
       "target": 95
-    },
-    {
-      "source": 0,
-      "target": 1
-    },
-    {
-      "source": 63,
-      "target": 6
-    },
-    {
-      "source": 7,
-      "target": 44
     }
   ]
 }
