@@ -1,0 +1,1118 @@
+{
+    "nodes": [
+        {
+        "id": 0,
+        "name":'Nifty Games',
+        "type":'Brand Owner',
+        "age": 'N/A',
+        "source":'N/A'
+        },
+        {
+            "id": 1,
+            "name": "Hodges Welch",
+            "type": "First Timer",
+            "age": 26,
+            "source": "Unknown"
+          },
+          {
+            "id": 2,
+            "name": "Magdalena Glass",
+            "type": "First Timer",
+            "age": 53,
+            "source": "Unknown"
+          },
+          {
+            "id": 3,
+            "name": "Lowe Franco",
+            "type": "Super Fan",
+            "age": 39,
+            "source": "Facebook"
+          },
+          {
+            "id": 4,
+            "name": "Morin Craft",
+            "type": "Casual Fan",
+            "age": 29,
+            "source": "Other"
+          },
+          {
+            "id": 5,
+            "name": "Spears Haley",
+            "type": "First Timer",
+            "age": 45,
+            "source": "Facebook"
+          },
+          {
+            "id": 6,
+            "name": "Ernestine Moreno",
+            "type": "Casual Fan",
+            "age": 65,
+            "source": "Twitter"
+          },
+          {
+            "id": 7,
+            "name": "Sherry Pratt",
+            "type": "First Timer",
+            "age": 61,
+            "source": "Twitter"
+          },
+          {
+            "id": 8,
+            "name": "Figueroa Robbins",
+            "type": "First Timer",
+            "age": 43,
+            "source": "Other"
+          },
+          {
+            "id": 9,
+            "name": "Wilcox Harrell",
+            "type": "Super Fan",
+            "age": 33,
+            "source": "Twitter"
+          },
+          {
+            "id": 10,
+            "name": "Janice Duffy",
+            "type": "First Timer",
+            "age": 42,
+            "source": "Facebook"
+          },
+          {
+            "id": 11,
+            "name": "Shanna Dorsey",
+            "type": "Casual Fan",
+            "age": 35,
+            "source": "Facebook"
+          },
+          {
+            "id": 12,
+            "name": "Thomas Riley",
+            "type": "Super Fan",
+            "age": 42,
+            "source": "Instagram"
+          },
+          {
+            "id": 13,
+            "name": "Anne Dunn",
+            "type": "First Timer",
+            "age": 21,
+            "source": "Unknown"
+          },
+          {
+            "id": 14,
+            "name": "Winifred Anderson",
+            "type": "First Timer",
+            "age": 44,
+            "source": "Unknown"
+          },
+          {
+            "id": 15,
+            "name": "Kerr Holman",
+            "type": "Casual Fan",
+            "age": 27,
+            "source": "Twitter"
+          },
+          {
+            "id": 16,
+            "name": "Webb Mcfarland",
+            "type": "Casual Fan",
+            "age": 37,
+            "source": "Unknown"
+          },
+          {
+            "id": 17,
+            "name": "Debra Paul",
+            "type": "Casual Fan",
+            "age": 46,
+            "source": "Instagram"
+          },
+          {
+            "id": 18,
+            "name": "Briana Jennings",
+            "type": "Casual Fan",
+            "age": 51,
+            "source": "Facebook"
+          },
+          {
+            "id": 19,
+            "name": "Ilene Sawyer",
+            "type": "Super Fan",
+            "age": 34,
+            "source": "Instagram"
+          },
+          {
+            "id": 20,
+            "name": "Peters Cooke",
+            "type": "First Timer",
+            "age": 70,
+            "source": "Twitter"
+          },
+          {
+            "id": 21,
+            "name": "Kerry Marsh",
+            "type": "Super Fan",
+            "age": 61,
+            "source": "Unknown"
+          },
+          {
+            "id": 22,
+            "name": "Eva Thomas",
+            "type": "Casual Fan",
+            "age": 39,
+            "source": "Unknown"
+          },
+          {
+            "id": 23,
+            "name": "Miranda Galloway",
+            "type": "Casual Fan",
+            "age": 36,
+            "source": "Other"
+          },
+          {
+            "id": 24,
+            "name": "Clarice Wynn",
+            "type": "First Timer",
+            "age": 40,
+            "source": "Other"
+          },
+          {
+            "id": 25,
+            "name": "Hays Carter",
+            "type": "First Timer",
+            "age": 31,
+            "source": "Instagram"
+          },
+          {
+            "id": 26,
+            "name": "Mccoy Tyson",
+            "type": "First Timer",
+            "age": 27,
+            "source": "Instagram"
+          },
+          {
+            "id": 27,
+            "name": "Duncan Hunter",
+            "type": "Casual Fan",
+            "age": 26,
+            "source": "Twitter"
+          },
+          {
+            "id": 28,
+            "name": "Melendez Hobbs",
+            "type": "Super Fan",
+            "age": 69,
+            "source": "Instagram"
+          },
+          {
+            "id": 29,
+            "name": "Burch Wooten",
+            "type": "First Timer",
+            "age": 38,
+            "source": "Other"
+          },
+          {
+            "id": 30,
+            "name": "Noel Oneill",
+            "type": "Super Fan",
+            "age": 44,
+            "source": "Other"
+          },
+          {
+            "id": 31,
+            "name": "Fay Meyer",
+            "type": "Casual Fan",
+            "age": 65,
+            "source": "Instagram"
+          },
+          {
+            "id": 32,
+            "name": "Rush Baldwin",
+            "type": "First Timer",
+            "age": 31,
+            "source": "Other"
+          },
+          {
+            "id": 33,
+            "name": "Frye Walton",
+            "type": "Super Fan",
+            "age": 53,
+            "source": "Facebook"
+          },
+          {
+            "id": 34,
+            "name": "Cindy Watson",
+            "type": "Casual Fan",
+            "age": 66,
+            "source": "Unknown"
+          },
+          {
+            "id": 35,
+            "name": "Loraine Ellison",
+            "type": "Super Fan",
+            "age": 50,
+            "source": "Other"
+          },
+          {
+            "id": 36,
+            "name": "Lydia Hensley",
+            "type": "First Timer",
+            "age": 67,
+            "source": "Unknown"
+          },
+          {
+            "id": 37,
+            "name": "Perez Whitney",
+            "type": "First Timer",
+            "age": 19,
+            "source": "Instagram"
+          },
+          {
+            "id": 38,
+            "name": "Copeland Weiss",
+            "type": "Super Fan",
+            "age": 34,
+            "source": "Unknown"
+          },
+          {
+            "id": 39,
+            "name": "Russell Vargas",
+            "type": "Super Fan",
+            "age": 36,
+            "source": "Twitter"
+          },
+          {
+            "id": 40,
+            "name": "Frankie Flowers",
+            "type": "Super Fan",
+            "age": 35,
+            "source": "Instagram"
+          },
+          {
+            "id": 41,
+            "name": "Mullen Espinoza",
+            "type": "Super Fan",
+            "age": 32,
+            "source": "Twitter"
+          },
+          {
+            "id": 42,
+            "name": "Bessie Bennett",
+            "type": "Casual Fan",
+            "age": 44,
+            "source": "Twitter"
+          },
+          {
+            "id": 43,
+            "name": "Suzanne Watts",
+            "type": "Casual Fan",
+            "age": 70,
+            "source": "Other"
+          },
+          {
+            "id": 44,
+            "name": "Lauri Mejia",
+            "type": "Casual Fan",
+            "age": 31,
+            "source": "Instagram"
+          },
+          {
+            "id": 45,
+            "name": "Harrington Contreras",
+            "type": "First Timer",
+            "age": 33,
+            "source": "Instagram"
+          },
+          {
+            "id": 46,
+            "name": "Emma Rowland",
+            "type": "Super Fan",
+            "age": 20,
+            "source": "Other"
+          },
+          {
+            "id": 47,
+            "name": "Bryant Howell",
+            "type": "Casual Fan",
+            "age": 67,
+            "source": "Facebook"
+          },
+          {
+            "id": 48,
+            "name": "Brittany Flynn",
+            "type": "Casual Fan",
+            "age": 49,
+            "source": "Other"
+          },
+          {
+            "id": 49,
+            "name": "Cynthia Williamson",
+            "type": "Super Fan",
+            "age": 23,
+            "source": "Other"
+          },
+          {
+            "id": 50,
+            "name": "Curry Bray",
+            "type": "First Timer",
+            "age": 44,
+            "source": "Facebook"
+          },
+          {
+            "id": 51,
+            "name": "Mcclain Mullins",
+            "type": "First Timer",
+            "age": 35,
+            "source": "Unknown"
+          },
+          {
+            "id": 52,
+            "name": "Little Evans",
+            "type": "First Timer",
+            "age": 51,
+            "source": "Twitter"
+          },
+          {
+            "id": 53,
+            "name": "Kris Huffman",
+            "type": "Casual Fan",
+            "age": 54,
+            "source": "Unknown"
+          },
+          {
+            "id": 54,
+            "name": "Janell Kim",
+            "type": "First Timer",
+            "age": 66,
+            "source": "Instagram"
+          },
+          {
+            "id": 55,
+            "name": "Mcmillan Cortez",
+            "type": "Casual Fan",
+            "age": 44,
+            "source": "Twitter"
+          },
+          {
+            "id": 56,
+            "name": "Angel Brock",
+            "type": "First Timer",
+            "age": 36,
+            "source": "Other"
+          },
+          {
+            "id": 57,
+            "name": "Roach Brewer",
+            "type": "First Timer",
+            "age": 42,
+            "source": "Twitter"
+          },
+          {
+            "id": 58,
+            "name": "Lisa Navarro",
+            "type": "First Timer",
+            "age": 19,
+            "source": "Other"
+          },
+          {
+            "id": 59,
+            "name": "Mattie Nolan",
+            "type": "Super Fan",
+            "age": 24,
+            "source": "Facebook"
+          },
+          {
+            "id": 60,
+            "name": "Betsy Bird",
+            "type": "Casual Fan",
+            "age": 48,
+            "source": "Facebook"
+          },
+          {
+            "id": 61,
+            "name": "Lizzie Garcia",
+            "type": "First Timer",
+            "age": 60,
+            "source": "Instagram"
+          },
+          {
+            "id": 62,
+            "name": "Wilson Lowe",
+            "type": "First Timer",
+            "age": 29,
+            "source": "Twitter"
+          },
+          {
+            "id": 63,
+            "name": "Ayers Mccarthy",
+            "type": "First Timer",
+            "age": 21,
+            "source": "Other"
+          },
+          {
+            "id": 64,
+            "name": "Wiley Winters",
+            "type": "Super Fan",
+            "age": 29,
+            "source": "Unknown"
+          },
+          {
+            "id": 65,
+            "name": "Chen Madden",
+            "type": "Super Fan",
+            "age": 39,
+            "source": "Other"
+          },
+          {
+            "id": 66,
+            "name": "Roman Holloway",
+            "type": "Casual Fan",
+            "age": 40,
+            "source": "Instagram"
+          },
+          {
+            "id": 67,
+            "name": "Willis King",
+            "type": "Super Fan",
+            "age": 33,
+            "source": "Other"
+          },
+          {
+            "id": 68,
+            "name": "Deloris Jenkins",
+            "type": "First Timer",
+            "age": 55,
+            "source": "Twitter"
+          },
+          {
+            "id": 69,
+            "name": "Gonzalez Mcmahon",
+            "type": "First Timer",
+            "age": 64,
+            "source": "Instagram"
+          },
+          {
+            "id": 70,
+            "name": "Mavis Morris",
+            "type": "First Timer",
+            "age": 37,
+            "source": "Instagram"
+          },
+          {
+            "id": 71,
+            "name": "Dionne Greene",
+            "type": "First Timer",
+            "age": 65,
+            "source": "Instagram"
+          },
+          {
+            "id": 72,
+            "name": "Austin Bartlett",
+            "type": "Super Fan",
+            "age": 21,
+            "source": "Facebook"
+          },
+          {
+            "id": 73,
+            "name": "Cornelia Morse",
+            "type": "First Timer",
+            "age": 51,
+            "source": "Unknown"
+          },
+          {
+            "id": 74,
+            "name": "Flynn Scott",
+            "type": "First Timer",
+            "age": 39,
+            "source": "Unknown"
+          },
+          {
+            "id": 75,
+            "name": "Sharon Nelson",
+            "type": "First Timer",
+            "age": 46,
+            "source": "Twitter"
+          },
+          {
+            "id": 76,
+            "name": "Odom Wilson",
+            "type": "First Timer",
+            "age": 19,
+            "source": "Facebook"
+          },
+          {
+            "id": 77,
+            "name": "Lilly Nieves",
+            "type": "First Timer",
+            "age": 68,
+            "source": "Unknown"
+          },
+          {
+            "id": 78,
+            "name": "Fitzpatrick Bauer",
+            "type": "Casual Fan",
+            "age": 50,
+            "source": "Unknown"
+          },
+          {
+            "id": 79,
+            "name": "Grimes Ryan",
+            "type": "Casual Fan",
+            "age": 41,
+            "source": "Facebook"
+          },
+          {
+            "id": 80,
+            "name": "Felicia Marquez",
+            "type": "Casual Fan",
+            "age": 29,
+            "source": "Unknown"
+          },
+          {
+            "id": 81,
+            "name": "Hilary Riddle",
+            "type": "First Timer",
+            "age": 64,
+            "source": "Twitter"
+          },
+          {
+            "id": 82,
+            "name": "Whitehead Edwards",
+            "type": "Casual Fan",
+            "age": 55,
+            "source": "Unknown"
+          },
+          {
+            "id": 83,
+            "name": "Torres Knight",
+            "type": "Super Fan",
+            "age": 64,
+            "source": "Unknown"
+          },
+          {
+            "id": 84,
+            "name": "Marquita Doyle",
+            "type": "Super Fan",
+            "age": 32,
+            "source": "Twitter"
+          },
+          {
+            "id": 85,
+            "name": "Christie Knapp",
+            "type": "Super Fan",
+            "age": 33,
+            "source": "Other"
+          },
+          {
+            "id": 86,
+            "name": "Thompson Kinney",
+            "type": "First Timer",
+            "age": 30,
+            "source": "Twitter"
+          },
+          {
+            "id": 87,
+            "name": "Clara Abbott",
+            "type": "Casual Fan",
+            "age": 21,
+            "source": "Instagram"
+          },
+          {
+            "id": 88,
+            "name": "Mcgee Curry",
+            "type": "First Timer",
+            "age": 22,
+            "source": "Other"
+          },
+          {
+            "id": 89,
+            "name": "Barbara Kramer",
+            "type": "Super Fan",
+            "age": 67,
+            "source": "Other"
+          },
+          {
+            "id": 90,
+            "name": "Pam Nichols",
+            "type": "Super Fan",
+            "age": 63,
+            "source": "Twitter"
+          },
+          {
+            "id": 91,
+            "name": "Bradford Caldwell",
+            "type": "First Timer",
+            "age": 23,
+            "source": "Other"
+          },
+          {
+            "id": 92,
+            "name": "Amie Payne",
+            "type": "First Timer",
+            "age": 19,
+            "source": "Twitter"
+          },
+          {
+            "id": 93,
+            "name": "Avila Terry",
+            "type": "First Timer",
+            "age": 70,
+            "source": "Instagram"
+          },
+          {
+            "id": 94,
+            "name": "Janet Wilcox",
+            "type": "Casual Fan",
+            "age": 35,
+            "source": "Instagram"
+          },
+          {
+            "id": 95,
+            "name": "Felecia Sullivan",
+            "type": "Super Fan",
+            "age": 23,
+            "source": "Facebook"
+          },
+          {
+            "id": 96,
+            "name": "Burton Vaughan",
+            "type": "First Timer",
+            "age": 60,
+            "source": "Twitter"
+          },
+          {
+            "id": 97,
+            "name": "Lawson Workman",
+            "type": "Super Fan",
+            "age": 19,
+            "source": "Instagram"
+          },
+          {
+            "id": 98,
+            "name": "Bernadine Mercado",
+            "type": "First Timer",
+            "age": 40,
+            "source": "Other"
+          },
+          {
+            "id": 99,
+            "name": "Diane Lyons",
+            "type": "First Timer",
+            "age": 23,
+            "source": "Instagram"
+          },
+          {
+            "id": 100,
+            "name": "Francesca Buck",
+            "type": "Casual Fan",
+            "age": 64,
+            "source": "Instagram"
+          }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+          },
+          {
+            "source": 0,
+            "target": 2
+          },
+          {
+            "source": 0,
+            "target": 3
+          },
+          {
+            "source": 0,
+            "target": 4
+          },
+          {
+            "source": 0,
+            "target": 5
+          },
+          {
+            "source": 0,
+            "target": 6
+          },
+          {
+            "source": 0,
+            "target": 7
+          },
+          {
+            "source": 0,
+            "target": 8
+          },
+          {
+            "source": 0,
+            "target": 9
+          },
+          {
+            "source": 0,
+            "target": 10
+          },
+          {
+            "source": 0,
+            "target": 11
+          },
+          {
+            "source": 0,
+            "target": 12
+          },
+          {
+            "source": 0,
+            "target": 13
+          },
+          {
+            "source": 0,
+            "target": 14
+          },
+          {
+            "source": 0,
+            "target": 15
+          },
+          {
+            "source": 0,
+            "target": 16
+          },
+          {
+            "source": 0,
+            "target": 17
+          },
+          {
+            "source": 0,
+            "target": 18
+          },
+          {
+            "source": 0,
+            "target": 19
+          },
+          {
+            "source": 0,
+            "target": 20
+          },
+          {
+            "source": 5,
+            "target": 22
+          },
+          {
+            "source": 4,
+            "target": 43
+          },
+          {
+            "source": 14,
+            "target": 40
+          },
+          {
+            "source": 2,
+            "target": 38
+          },
+          {
+            "source": 4,
+            "target": 56
+          },
+          {
+            "source": 9,
+            "target": 48
+          },
+          {
+            "source": 1,
+            "target": 29
+          },
+          {
+            "source": 5,
+            "target": 56
+          },
+          {
+            "source": 12,
+            "target": 24
+          },
+          {
+            "source": 4,
+            "target": 52
+          },
+          {
+            "source": 13,
+            "target": 21
+          },
+          {
+            "source": 7,
+            "target": 36
+          },
+          {
+            "source": 18,
+            "target": 56
+          },
+          {
+            "source": 7,
+            "target": 25
+          },
+          {
+            "source": 18,
+            "target": 43
+          },
+          {
+            "source": 20,
+            "target": 33
+          },
+          {
+            "source": 9,
+            "target": 50
+          },
+          {
+            "source": 11,
+            "target": 44
+          },
+          {
+            "source": 2,
+            "target": 43
+          },
+          {
+            "source": 8,
+            "target": 49
+          },
+          {
+            "source": 10,
+            "target": 55
+          },
+          {
+            "source": 14,
+            "target": 44
+          },
+          {
+            "source": 17,
+            "target": 33
+          },
+          {
+            "source": 20,
+            "target": 48
+          },
+          {
+            "source": 20,
+            "target": 50
+          },
+          {
+            "source": 9,
+            "target": 53
+          },
+          {
+            "source": 11,
+            "target": 43
+          },
+          {
+            "source": 6,
+            "target": 54
+          },
+          {
+            "source": 20,
+            "target": 57
+          },
+          {
+            "source": 13,
+            "target": 46
+          },
+          {
+            "source": 19,
+            "target": 36
+          },
+          {
+            "source": 4,
+            "target": 26
+          },
+          {
+            "source": 6,
+            "target": 35
+          },
+          {
+            "source": 1,
+            "target": 49
+          },
+          {
+            "source": 8,
+            "target": 41
+          },
+          {
+            "source": 6,
+            "target": 53
+          },
+          {
+            "source": 2,
+            "target": 52
+          },
+          {
+            "source": 18,
+            "target": 35
+          },
+          {
+            "source": 2,
+            "target": 38
+          },
+          {
+            "source": 4,
+            "target": 44
+          },
+          {
+            "source": 47,
+            "target": 77
+          },
+          {
+            "source": 59,
+            "target": 85
+          },
+          {
+            "source": 33,
+            "target": 77
+          },
+          {
+            "source": 50,
+            "target": 81
+          },
+          {
+            "source": 55,
+            "target": 99
+          },
+          {
+            "source": 30,
+            "target": 90
+          },
+          {
+            "source": 21,
+            "target": 81
+          },
+          {
+            "source": 47,
+            "target": 98
+          },
+          {
+            "source": 44,
+            "target": 92
+          },
+          {
+            "source": 47,
+            "target": 61
+          },
+          {
+            "source": 23,
+            "target": 84
+          },
+          {
+            "source": 44,
+            "target": 85
+          },
+          {
+            "source": 36,
+            "target": 82
+          },
+          {
+            "source": 35,
+            "target": 98
+          },
+          {
+            "source": 42,
+            "target": 84
+          },
+          {
+            "source": 52,
+            "target": 77
+          },
+          {
+            "source": 33,
+            "target": 73
+          },
+          {
+            "source": 56,
+            "target": 84
+          },
+          {
+            "source": 51,
+            "target": 71
+          },
+          {
+            "source": 29,
+            "target": 87
+          },
+          {
+            "source": 52,
+            "target": 61
+          },
+          {
+            "source": 23,
+            "target": 70
+          },
+          {
+            "source": 34,
+            "target": 84
+          },
+          {
+            "source": 31,
+            "target": 69
+          },
+          {
+            "source": 35,
+            "target": 93
+          },
+          {
+            "source": 55,
+            "target": 76
+          },
+          {
+            "source": 33,
+            "target": 93
+          },
+          {
+            "source": 46,
+            "target": 78
+          },
+          {
+            "source": 57,
+            "target": 61
+          },
+          {
+            "source": 26,
+            "target": 93
+          },
+          {
+            "source": 23,
+            "target": 80
+          },
+          {
+            "source": 45,
+            "target": 74
+          },
+          {
+            "source": 28,
+            "target": 69
+          },
+          {
+            "source": 38,
+            "target": 81
+          },
+          {
+            "source": 28,
+            "target": 99
+          },
+          {
+            "source": 60,
+            "target": 73
+          },
+          {
+            "source": 48,
+            "target": 78
+          },
+          {
+            "source": 52,
+            "target": 69
+          },
+          {
+            "source": 42,
+            "target": 70
+          },
+          {
+            "source": 29,
+            "target": 73
+          },
+          {
+            "source": 32,
+            "target": 100
+          }
+
+    ]
+}
