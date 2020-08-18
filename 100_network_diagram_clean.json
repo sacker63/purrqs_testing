@@ -2,10 +2,10 @@
     "nodes": [
         {
         "id": 0,
-        "name":'Nifty Games',
-        "type":'Brand Owner',
-        "age": 'N/A',
-        "source":'N/A'
+        "name":"Nifty Games",
+        "type":"Brand Owner",
+        "age": "N/A",
+        "source":"N/A"
         },
         {
             "id": 1,
