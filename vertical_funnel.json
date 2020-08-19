@@ -1,30 +1,30 @@
 [
     {
     "name": "Brand total Reach",
-    "value1": 600,
+    "value1": 290,
     "value2": 450
 }, {
     "name": "Level 1 Users",
     "value1": 100,
     "value2": 400
 }, {
-    "name": "Stage #3",
+    "name": "Level 2 Users",
     "value1": 82,
     "value2": 290
 }, {
-    "name": "Stage #4",
+    "name": "Level 3 Users",
     "value1": 43,
     "value2": 100
 }, {
-    "name": "Stage #5",
+    "name": "Level 4 Users",
     "value1": 25,
     "value2": 50
 }, {
-    "name": "Stage #6",
+    "name": "Level 5 Users",
     "value1": 30,
     "value2": 20
 }, {
-    "name": "Stage #7",
+    "name": "Level 6 Users",
     "value1": 10,
     "value2": 10
 }
