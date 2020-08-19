@@ -1,4 +1,5 @@
-{
+{ "data" : [
+    {
     "name": "Stage #1",
     "value1": 600,
     "value2": 450
@@ -26,4 +27,6 @@
     "name": "Stage #7",
     "value1": 10,
     "value2": 10
+}
+]
 }
