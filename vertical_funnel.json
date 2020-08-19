@@ -1,0 +1,29 @@
+{
+    "name": "Stage #1",
+    "value1": 600,
+    "value2": 450
+}, {
+    "name": "Stage #2",
+    "value1": 300,
+    "value2": 400
+}, {
+    "name": "Stage #3",
+    "value1": 200,
+    "value2": 290
+}, {
+    "name": "Stage #4",
+    "value1": 180,
+    "value2": 100
+}, {
+    "name": "Stage #5",
+    "value1": 50,
+    "value2": 50
+}, {
+    "name": "Stage #6",
+    "value1": 20,
+    "value2": 20
+}, {
+    "name": "Stage #7",
+    "value1": 10,
+    "value2": 10
+}
