@@ -1,10 +1,10 @@
 [
   {
-    "category": 1,
-    "value1": 8,
+    "category": 3,
+    "value1": 6,
     "value2": 3,
-    "value3": 12,
-    "value4": 11
+    "value3": 5,
+    "value4": 12
   },
   {
     "category": 2,
@@ -14,10 +14,10 @@
     "value4": 10
   },
   {
-    "category": 3,
-    "value1": 6,
+    "category": 1,
+    "value1": 8,
     "value2": 3,
-    "value3": 5,
-    "value4": 12
+    "value3": 12,
+    "value4": 11
   }
 ]
