@@ -1,6 +1,6 @@
 [
   {
-    "category": 1,
+    "category": 3,
     "value1": 1,
     "value2": 3,
     "value3": 3,
@@ -14,7 +14,7 @@
     "value4": 2
   },
   {
-    "category": 3,
+    "category": 1,
     "value1": 3,
     "value2": 2,
     "value3": 1,
