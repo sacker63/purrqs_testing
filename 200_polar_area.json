@@ -1,0 +1,23 @@
+[
+  {
+    "category": 1,
+    "value1": 8,
+    "value2": 3,
+    "value3": 12,
+    "value4": 11
+  },
+  {
+    "category": 2,
+    "value1": 4,
+    "value2": 6,
+    "value3": 9,
+    "value4": 10
+  },
+  {
+    "category": 3,
+    "value1": 6,
+    "value2": 3,
+    "value3": 5,
+    "value4": 12
+  }
+]
