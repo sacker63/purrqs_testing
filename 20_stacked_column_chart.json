@@ -1,6 +1,6 @@
 [
   {
-    "level": 1,
+    "level": "Level 1",
     "age1": 0,
     "age2": 2,
     "age3": 1,
@@ -9,7 +9,7 @@
     "age6": 0
   },
   {
-    "level": 2,
+    "level": "Level 2",
     "age1": 3,
     "age2": 0,
     "age3": 1,
@@ -18,7 +18,7 @@
     "age6": 1
   },
   {
-    "level": 3,
+    "level": "Level 3",
     "age1": 2,
     "age2": 2,
     "age3": 0,
