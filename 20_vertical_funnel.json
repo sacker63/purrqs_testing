@@ -1,15 +1,12 @@
 [
     {
     "name": "Level 1 Users",
-    "value1": 25,
-    "value2": 450
+    "value1": 25
 }, {
     "name": "Level 2 Users",
-    "value1": 40,
-    "value2": 400
+    "value1": 40
 }, {
     "name": "Level 3 Users",
-    "value1": 55,
-    "value2": 290
+    "value1": 55
 }
 ]
